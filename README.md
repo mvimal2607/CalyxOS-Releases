@@ -27,6 +27,8 @@ The sideload process will progress to 94% before finishing. This is normal—be 
 6. Reboot
 Once the sideload is done, select "Reboot system now" from the recovery menu. Congratulations! You’ve successfully flashed CalyxOS!
 
+## Known Issue:
+- The thunder symbol does not appear on the screen while the device is charging.
 
 ## Support My Work
 
