@@ -32,6 +32,7 @@ Once the sideload is done, select "Reboot system now" from the recovery menu. Co
 - Always back up your data before starting the installation. 
 - You may need to set up an APN after Clean Install
 - Dirty flash can be possible from CalyxOS 6.4.2
+- If you get no command with android logo while booting into recovery just hold power button and press volume+
 
 ## Known Issue:
 - The thunder symbol does not appear on the screen while the device is charging.(it was working in some scenario, if you got any workaround please let me know.)
