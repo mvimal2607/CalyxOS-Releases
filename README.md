@@ -13,6 +13,7 @@
 - On Linux: Run the <b>flash.sh</b> script.
 - On Windows: Run the <b>flash.bat</b> script.
 This will flash the recovery and automatically boot your device into the CalyxOS recovery mode.
+- If you get no command with android logo while booting into recovery just hold power button and press volume+
 
 3. Wipe Data
 In the recovery menu, select "Wipe data/factory reset" to clear existing data on the device.
@@ -32,7 +33,6 @@ Once the sideload is done, select "Reboot system now" from the recovery menu. Co
 - Always back up your data before starting the installation. 
 - You may need to set up an APN after Clean Install
 - Dirty flash can be possible from CalyxOS 6.4.2
-- If you get no command with android logo while booting into recovery just hold power button and press volume+
 
 ## Known Issue:
 - The thunder symbol does not appear on the screen while the device is charging.(it was working in some scenario, if you got any workaround please let me know.)
