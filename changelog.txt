@@ -1,3 +1,8 @@
+Date: 13/04/2025
+
+- April Security patch
+- Upstream kernel 5.4.289
+
 Date: 28/03/2025
 
 - Android 15, March 2025 Quarterly Platform Release (2025-03-05), based on 15QPR2
