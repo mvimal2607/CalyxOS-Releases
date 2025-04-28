@@ -1,3 +1,8 @@
+Date: 28/04/2025
+- April security patch
+- UPSTREAM Kernel 5.4.290
+- Fix the issue where the right channel was broken and with noise when playing audio.
+
 Date: 13/04/2025
 
 - April Security patch
