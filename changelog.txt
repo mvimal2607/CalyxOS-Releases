@@ -1,3 +1,8 @@
+Date: 01/05/2025
+- Added blur support
+- Removed Some Unused apps
+- latest source sync
+
 Date: 28/04/2025
 - April security patch
 - UPSTREAM Kernel 5.4.290
